@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/anik/manim_projects/media/videos/schrodinger/480p15/partial_movie_files/Schrodinger/1584795214_950998169_223132457.mp4'
+file 'file:/home/anik/manim_projects/media/videos/schrodinger/480p15/partial_movie_files/Schrodinger/4072820271_694036862_1313004564.mp4'
+file 'file:/home/anik/manim_projects/media/videos/schrodinger/480p15/partial_movie_files/Schrodinger/4072820271_2408024828_3520180591.mp4'
